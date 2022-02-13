@@ -11,4 +11,4 @@
 </p>
 
 <h1 align="center">Imagens</h1>
-<img  title="header" src="img/imagem-desafio.png" width=50% height=500px align="center">
+<img  title="header" src="img/imagem-desafio.png" width=100% height=500px align="center">
